@@ -1,0 +1,4 @@
+// 1. find the gcd of two given number using eculiden algorithm
+// 2. check if the given two number is co prime or not 
+// 3. find multiplicative iververse of given number using extend euliden algorithm 
+// 4. find additive inverse of the given number

@@ -1,0 +1,5 @@
+wap  to illustartee the following 
+ a) monoalphabetic cipher (a. ceaser cipher b. hill cipher)
+ b) polyalphabetic cipher (a. vigenere cipher b. playfair cipher)
+ c) transposition cipher (a. rail fence cipher b. row transposition cipher)
+
