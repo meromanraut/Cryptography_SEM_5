@@ -1,0 +1,5 @@
+Number theory
+1. Find totient of given Number.
+2. Check if given number is prime or not using traditional method.
+3. Check if given number is prime or not using Miller -Rabin algorithm.
+4. Find primitive roots of given number.
