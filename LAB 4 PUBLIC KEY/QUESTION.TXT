@@ -1,0 +1,7 @@
+Lab 4: Public Key Cryptosystem
+
+1.Implement Diffie–Hellman Key Exchange.
+
+2.Implement RSA Algorithm.
+
+3.Implement ElGamal Cryptographic System.
